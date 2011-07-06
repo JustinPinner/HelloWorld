@@ -1,0 +1,8 @@
+.git/
+.idea/
+.idea_modules
+target/
+project/boot
+project/plugins/target
+project/plugins/project
+
